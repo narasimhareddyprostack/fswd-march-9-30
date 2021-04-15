@@ -1,0 +1,43 @@
+ES 6 features
+-------------------
+1.Import and Export , named Import and named Export 
+2.Array supporting Methods
+  array.forEach()
+  array.map()
+  array.reduer() 
+
+  Note: we are passing one call back as arguments 
+  [1,2,3].map(()=>{})
+
+3.Object Destructuring
+
+4.Spread Operator , Rest Operator and default  
+
+5.Template Literal String - ${}
+
+6.Fat Arrow function 
+7.Let , const 
+8.Async and await 
+9.Promices and Closure 
+10.Classes 
+11.Iterators - For of 
+
+12.map + set + weakmap + weakset 
+
+14.Enhanced Object Literal
+
+
+
+Pending Topics:
+---------------
+OOps 
+Encapsulation
+
+
+
+
+Arrow Adv 
+1.Consise code 
+2.Implicit return 
+3.this keyword return empty Object - 
+4.method overriding conflicts well resolve
