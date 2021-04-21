@@ -1,3 +1,4 @@
+// extract and copy the values
 const bcrypt = require("bcryptjs");
 
 let userDetails = { email: "greetlabs@gmail.com", password: "124abc" };
